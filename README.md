@@ -1,8 +1,35 @@
-Enjoy the Free code + Assets 😍
-- Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚗 Car Rental Website  
 
-Currently, two official plugins are available:
+Welcome to the **Car Rental Website**! This project is designed to provide a seamless and user-friendly experience for renting cars online.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Features  
+- ✅ Browse available cars for rent  
+- ✅ Check pricing and car details  
+- ✅ Secure booking system  
+- ✅ User-friendly and responsive UI  
+- ✅ Built with **React + Vite** for high performance  
+
+## 🛠️ Tech Stack  
+- **Frontend:** React, Vite, Tailwind CSS  
+- **Backend:** Node.js (NestJS), MongoDB  
+- **Authentication:** JWT  
+- **Email Notifications:** Nodemailer  
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/aqib-baloch/Car-Rental-Website.git
+cd Car-Rental-Website
+```
+
+### 2️⃣ Install Dependencies  
+```bash
+npm install
+```
+
+### 3️⃣ Start the Development Server  
+```bash
+npm run dev
+```
+The app will be available at `http://localhost:5173/
